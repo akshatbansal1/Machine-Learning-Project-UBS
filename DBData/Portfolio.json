@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "6011b698739458b7733f1938"
+  },
+  "uuid": 0,
+  "name": "TrueLayer",
+  "Category List": "Financial Services Lending and Investments ",
+  "country_code_original": "GBR",
+  "country_continent_name": "Europe",
+  "total_funding_usd": "71800000",
+  "latest_round": "C",
+  "VGR": ">10",
+  "is_category_Artificial Intelligence": "0",
+  "is_category_Data and Analytics": "0",
+  "is_category_Financial Services": "1",
+  "is_category_Lending and Investments": "1",
+  "is_category_Payments": "0",
+  "is_category_Platforms": "0",
+  "is_category_Privacy and Security": "0"
+},{
+  "_id": {
+    "$oid": "60124396739458b7733f193c"
+  },
+  "uuid": 0,
+  "name": "Champion",
+  "Category List": "Lending and Investments Payments ",
+  "country_code_original": "USA",
+  "country_continent_name": "USA",
+  "total_funding_usd": "3000000",
+  "latest_round": null,
+  "VGR": "0 - 10",
+  "is_category_Artificial Intelligence": "0",
+  "is_category_Data and Analytics": "0",
+  "is_category_Financial Services": "0",
+  "is_category_Lending and Investments": "1",
+  "is_category_Payments": "1",
+  "is_category_Platforms": "0",
+  "is_category_Privacy and Security": "0"
+},{
+  "_id": {
+    "$oid": "6012733f739458b7733f193d"
+  },
+  "uuid": 0,
+  "name": "Alibaba",
+  "Category List": "Artificial Intelligence Payments Platforms ",
+  "country_code_original": "CHN",
+  "country_continent_name": "Asia",
+  "total_funding_usd": "5000000",
+  "latest_round": "B",
+  "VGR": "0 - 10",
+  "is_category_Artificial Intelligence": "1",
+  "is_category_Data and Analytics": "0",
+  "is_category_Financial Services": "0",
+  "is_category_Lending and Investments": "0",
+  "is_category_Payments": "1",
+  "is_category_Platforms": "1",
+  "is_category_Privacy and Security": "0"
+}]

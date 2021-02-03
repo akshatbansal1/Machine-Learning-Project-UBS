@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.App {
+  display: flex;
+  position: relative;
+  background-color: rgb(243, 245, 249);
+}
+
+body {
+  margin: 0;
+  height: 100%;
+}
+
+.Sidebar {
+  position: fixed;
+  /*overflow-y: scroll;*/
+  height: 100%;
+  width: 200px;
+  background-color: white;
+}
+
+.content {
+  padding-left: 200px;
+  overflow-y: auto;
+  left: 200px;
+  background-color: rgb(243, 245, 249);
+}
+
+.logo {
+  left: 0px;
+  top: 30px;
+  position: relative;
+}
+
+.searchbar {
+  position: relative;
+  left: 10px;
+}
+
+.SidebarList {
+  height: auto;
+  padding: 0;
+  width: 100%;
+}
+
+.SidebarList .row {
+  width: 100%;
+  height: 60px;
+  list-style-type: none;
+  margin: 0%;
+  display: flex;
+  flex-direction: row;
+  color: black;
+  align-items: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.SidebarList .row:hover {
+  cursor: pointer;
+}
+.SidebarList #active {
+  background-color: gray;
+}
+.row #icon {
+  flex: 30%;
+  display: grid;
+  place-items: center;
+}
+
+.row #title {
+  flex: 70%;
+}
+
+.Table1 {
+  position: relative;
+  left: 500;
+}
+
+.MyTable {
+  position: relative;
+  left: 500;
+}

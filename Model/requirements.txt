@@ -1,0 +1,9 @@
+numpy
+pandas
+sklearn
+scipy
+lightgbm
+matplotlib
+jupyter
+pycountry
+pycountry_convert
