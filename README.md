@@ -37,13 +37,13 @@ Please import all JSON files in App/DBdata to a local MongoDB Server (localhost:
 
 ### Setting up Backend flask server
 Go to /App/api on the terminal and run the following commands to set up a virtual environment and start the server:
-python -m venv venv
-Set-ExecutionPolicy Unrestricted -Scope Process (for windows users only)
-venv\Scripts\activate
-pip install flask python-dotenv flask_cors Flask-PyMongo lightgbm pandas
-flask run
+```python -m venv venv```
+```Set-ExecutionPolicy Unrestricted -Scope Process (for windows users only)```
+```venv\Scripts\activate```
+```pip install flask python-dotenv flask_cors Flask-PyMongo lightgbm pandas```
+```flask run```
 
 ### Start the application
 Go to /App on the terminal and run the following commands to start the application:
-npm install
-npm start
+```npm install```
+```npm start```
